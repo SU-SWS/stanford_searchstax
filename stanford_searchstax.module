@@ -15,9 +15,3 @@ function stanford_searchstax_help($route_name, $route_match) {
       return t('Provides a generic SearchStax integration for Drupal.');
   }
 }
-
-/**
- * Implements hook_menu().
- * (For D8+, use routes and controllers, but placeholder for now)
- */
-// ...existing code...
