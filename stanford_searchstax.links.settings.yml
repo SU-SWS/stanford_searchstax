@@ -1,0 +1,6 @@
+stanford_searchstax.settings:
+  title: 'Stanford SearchStax Settings'
+  description: 'Configure the SearchStax endpoint for this site.'
+  parent: system.admin_config_services
+  route_name: stanford_searchstax.settings
+  weight: 100

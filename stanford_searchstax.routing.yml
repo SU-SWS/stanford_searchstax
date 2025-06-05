@@ -1,0 +1,7 @@
+stanford_searchstax.search:
+  path: '/stanford-searchstax/search'
+  defaults:
+    _controller: '\Drupal\stanford_searchstax\Controller\StanfordSearchstaxController::searchPage'
+    _title: 'Stanford SearchStax Search'
+  requirements:
+    _permission: 'access content'

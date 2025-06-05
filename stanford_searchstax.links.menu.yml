@@ -1,0 +1,7 @@
+stanford_searchstax.settings:
+  path: '/admin/config/services/stanford-searchstax'
+  defaults:
+    _form: '\Drupal\stanford_searchstax\Form\StanfordSearchstaxSettingsForm'
+    _title: 'Stanford SearchStax Settings'
+  requirements:
+    _permission: 'administer site configuration'
