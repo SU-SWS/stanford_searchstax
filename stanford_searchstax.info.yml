@@ -4,5 +4,5 @@ type: module
 description: 'Proof of Concept for a generic SearchStax integration.'
 core_version_requirement: ^10 || ^11
 dependencies:
-  - drupal/searchstax
+  - searchstax:searchstax
 version: 1.0.0
