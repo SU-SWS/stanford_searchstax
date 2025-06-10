@@ -1,7 +1,8 @@
 name: Stanford SearchStax
 package: Custom
-core_version_requirement: ^10 || ^11
 type: module
 description: 'Proof of Concept for a generic SearchStax integration.'
+core_version_requirement: ^10 || ^11
 dependencies:
   - drupal/searchstax
+version: 1.0.0
