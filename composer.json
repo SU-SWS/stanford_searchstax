@@ -1,7 +1,7 @@
 {
-  "name": "stanford/searchstax",
+  "name": "su-sws/stanford_searchstax",
   "description": "Proof of Concept for a generic Drupal SearchStax integration module. Allows site builders to connect to SearchStax and style the frontend via the theme.",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "homepage": "https://github.com/SU-SWS/stanford_searchstax",
   "authors": [],
   "license": "GPL-2.0-or-later",
